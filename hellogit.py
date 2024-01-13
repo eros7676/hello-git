@@ -1,2 +1,1 @@
-print("Hello Git!") # Original
-print("Ostia") # Cambio
+print("New Hello Git!") # Original
